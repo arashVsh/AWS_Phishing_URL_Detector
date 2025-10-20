@@ -35,7 +35,7 @@ PhishingDetector/
 
 ### **Setup**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/arashVsh/AWS_Phishing_URL_Detector.git
 cd PhishingDetector
 python -m venv .venv
 .venv\Scripts\activate   # On Windows
